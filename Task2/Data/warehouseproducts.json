@@ -1,0 +1,134 @@
+[
+	{
+		"serialNumber": "1023456789",
+		"storageDate": "2022-06-05",
+		"productType": "SERIALIZED-1",
+		"isAvailable": false
+	},
+	{
+		"serialNumber": "2034567890",
+		"storageDate": "2022-08-12",
+		"productType": "SERIALIZED-2",
+		"isAvailable": false
+	},
+	{
+		"serialNumber": "3012345678",
+		"storageDate": "2022-09-30",
+		"productType": "SERIALIZED-1",
+		"isAvailable": true
+	},
+	{
+		"serialNumber": "4012345679",
+		"storageDate": "2022-11-25",
+		"productType": "SERIALIZED-2",
+		"isAvailable": false
+	},
+	{
+		"serialNumber": "5034567891",
+		"storageDate": "2022-02-18",
+		"productType": "SERIALIZED-1",
+		"isAvailable": false
+	},
+	{
+		"serialNumber": "6012345670",
+		"storageDate": "2022-03-07",
+		"productType": "SERIALIZED-2",
+		"isAvailable": true
+	},
+	{
+		"serialNumber": "7012345671",
+		"storageDate": "2022-04-28",
+		"productType": "SERIALIZED-1",
+		"isAvailable": true
+	},
+	{
+		"serialNumber": "8012345672",
+		"storageDate": "2022-10-10",
+		"productType": "SERIALIZED-2",
+		"isAvailable": false
+	},
+	{
+		"serialNumber": "9034567892",
+		"storageDate": "2022-12-31",
+		"productType": "SERIALIZED-1",
+		"isAvailable": false
+	},
+	{
+		"serialNumber": "0123456783",
+		"storageDate": "2022-01-15",
+		"productType": "SERIALIZED-2",
+		"isAvailable": false
+	},
+	{
+		"serialNumber": "1234567894",
+		"storageDate": "2022-07-24",
+		"productType": "SERIALIZED-1",
+		"isAvailable": false
+	},
+	{
+		"serialNumber": "2345678905",
+		"storageDate": "2022-05-30",
+		"productType": "SERIALIZED-2",
+		"isAvailable": true
+	},
+	{
+		"serialNumber": null,
+		"storageDate": "2022-08-20",
+		"productType": "NON-SERIALIZED-1",
+		"isAvailable": true
+	},
+	{
+		"serialNumber": null,
+		"storageDate": "2022-05-13",
+		"productType": "NON-SERIALIZED-2",
+		"isAvailable": false
+	},
+	{
+		"serialNumber": null,
+		"storageDate": "2022-11-05",
+		"productType": "NON-SERIALIZED-1",
+		"isAvailable": true
+	},
+	{
+		"serialNumber": null,
+		"storageDate": "2022-03-03",
+		"productType": "NON-SERIALIZED-2",
+		"isAvailable": false
+	},
+	{
+		"serialNumber": null,
+		"storageDate": "2022-07-18",
+		"productType": "NON-SERIALIZED-1",
+		"isAvailable": false
+	},
+	{
+		"serialNumber": null,
+		"storageDate": "2022-09-21",
+		"productType": "NON-SERIALIZED-2",
+		"isAvailable": true
+	},
+	{
+		"serialNumber": null,
+		"storageDate": "2022-12-16",
+		"productType": "NON-SERIALIZED-1",
+		"isAvailable": true
+	},
+	{
+		"serialNumber": null,
+		"storageDate": "2022-04-05",
+		"productType": "NON-SERIALIZED-2",
+		"isAvailable": true
+	},
+	{
+		"serialNumber": null,
+		"storageDate": "2022-10-08",
+		"productType": "NON-SERIALIZED-1",
+		"isAvailable": true
+	},
+	{
+		"serialNumber": null,
+		"storageDate": "2022-02-19",
+		"productType": "NON-SERIALIZED-2",
+		"isAvailable": false
+	}
+]
